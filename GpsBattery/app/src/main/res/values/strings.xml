@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GpsBattery</string>
+    <string name="location_info">Latitude:%1$f, Longitude:%2$f</string>
+    <string name="update_time">Update Time: %1$s</string>
+    <string name="hint_update_time">Update time in millisecond</string>
+    <string name="btn_update_time">Set Update Time</string>
+    <string name="battery_info">Battery Info: %1$s</string>
+    <string name="battery_percent">Battery Electricity: %1$s</string>
+    <string name="gps_status">GPS: %1$s</string>
+    <string name="gps_switch">GPS Switch:</string>
+    <string name="tips_invalid_input_update_time">Please input valid integer</string>
+    <string name="tips_no_gps_permission">Please grant gps permission first. And restart app.</string>
+    <string name="tips_auto_pause">GPS auto pause because of no action in 20 seconds.</string>
+    <string name="tips_gps_disabled">GPS is disabled on your device! Please open gps and restart app.</string>
+</resources>
